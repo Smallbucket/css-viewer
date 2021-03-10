@@ -8,4 +8,6 @@ CSS 是开放网络的核心语言之一，由 W3C 规范 实现跨浏览器的�
 
 [CSS 语法和关键字索引](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference)            
 
-[CSS 数据类型 - 颜色](https://developer.mozilla.org/zh-CN/docs/Web/CSS/color_value)   
+[CSS 数据类型 - 颜色](https://developer.mozilla.org/zh-CN/docs/Web/CSS/color_value)       
+
+[RGB颜色参考](https://tool.oschina.net/commons?type=3)                    
